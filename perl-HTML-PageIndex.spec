@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	HTML
-%define	pnam	PageIndex
+%define		pdir	HTML
+%define		pnam	PageIndex
 Summary:	HTML::PageIndex - class to create HTML page index objects
 Summary(pl):	HTML::PageIndex - klasa do tworzenia obiektów stron indeksowych w HTML-u
 Name:		perl-HTML-PageIndex
