@@ -25,7 +25,7 @@ HTML-PageIndex jest klas± do tworzenia stron indeksowych w HTML
 
 %build
 perl Makefile.PL
-make
+%{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
