@@ -26,7 +26,7 @@ HTML::PageIndex jest klas± do tworzenia stron indeksowych w HTML.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
