@@ -9,7 +9,7 @@ Summary:	HTML::PageIndex - class to create HTML page index objects
 Summary(pl):	HTML::PageIndex - klasa do tworzenia obiektów stron indeksowych w HTML-u
 Name:		perl-HTML-PageIndex
 Version:	0.3
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
