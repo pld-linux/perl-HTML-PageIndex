@@ -3,7 +3,7 @@ Summary:	HTML-PageIndex perl module
 Summary(pl):	Modu³ perla HTML-PageIndex
 Name:		perl-HTML-PageIndex
 Version:	0.2
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
