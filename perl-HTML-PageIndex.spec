@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	HTML
 %define	pnam	PageIndex
-Summary:	HTML-PageIndex perl module
-Summary(pl):	Modu³ perla HTML-PageIndex
+Summary:	HTML::PageIndex perl module
+Summary(pl):	Modu³ perla HTML::PageIndex
 Name:		perl-HTML-PageIndex
 Version:	0.2
 Release:	8
@@ -15,10 +15,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-HTML-PageIndex is a slass to create HTML page index objects.
+HTML::PageIndex is a slass to create HTML page index objects.
 
 %description -l pl
-HTML-PageIndex jest klas± do tworzenia stron indeksowych w HTML.
+HTML::PageIndex jest klas± do tworzenia stron indeksowych w HTML.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
