@@ -6,7 +6,7 @@
 %define		pdir	HTML
 %define		pnam	PageIndex
 Summary:	HTML::PageIndex - class to create HTML page index objects
-Summary(pl):	HTML::PageIndex - klasa do tworzenia obiektów stron indeksowych w HTML-u
+Summary(pl.UTF-8):   HTML::PageIndex - klasa do tworzenia obiektÃ³w stron indeksowych w HTML-u
 Name:		perl-HTML-PageIndex
 Version:	0.3
 Release:	3
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 HTML::PageIndex is a class to create HTML page index objects.
 
-%description -l pl
-HTML::PageIndex jest klas± do tworzenia stron indeksowych w HTML-u.
+%description -l pl.UTF-8
+HTML::PageIndex jest klasÄ… do tworzenia stron indeksowych w HTML-u.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
